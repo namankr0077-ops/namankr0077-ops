@@ -1,16 +1,30 @@
-## Hi there 👋
+# Naman Kumar
 
-<!--
-**namankr0077-ops/namankr0077-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE AI & ML Student
+at KR Mangalam University, Gurugram.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill | Technologies |
+|---|---|
+| Programming | Python |
+| Operating Systems | Linux CLI |
+| Scripting | Bash / Shell |
+| Version Control | Git & GitHub |
+| Web Development | HTML5, CSS3 |
+| APIs | REST APIs, curl, jq |
+
+## My Projects
+
+### DeveloperPortfolio
+
+My developer portfolio showcasing Linux automation,
+Bash utilities, REST API pipelines and web development.
+
+[View DeveloperPortfolio](https://github.com/namankr0077-ops/DeveloperPortfolio)
+
+## Connect With Me
+
+- GitHub: https://github.com/namankr0077-ops
+- LinkedIn: https://www.linkedin.com/in/naman-kumar
+- Email: namankr.0077@gmail.com
